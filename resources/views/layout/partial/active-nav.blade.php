@@ -1,0 +1,1 @@
+bg-blue-500/13 rounded-lg font-semibold text-slate-700
